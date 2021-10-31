@@ -1,4 +1,4 @@
-### Hola 👋, my name is Víctor
+### Hello 👋, my name is Víctor
 ####  I am an Electrical Engineer and a software developer in training
 ![ I am an Electrical Engineer and a software developer in training](https://asociacionaepi.es/wp-content/uploads/2019/01/banner-aepi.jpg)
 
@@ -9,7 +9,7 @@ As a personal project I have developed some cell phone applications in the Andro
 I have also developed programming on the MetaTrader4 platform, which is a platform where you can view the graphs of the FOREX currency market.
 Now I am looking for a remote job, where I can participate in projects that allow solving an engineering or software development problem.
 
-Habilidades: Python  / Java / JS / HTML / CSS/ MQL4 / MySQL / Django / Matlab
+Skills: Python  / Java / JS / HTML / CSS/ MQL4 / MySQL / Django / Matlab
 
 Android Projects on <a href="https://appsvictor457.wordpress.com/">Android Projects</a>
 
